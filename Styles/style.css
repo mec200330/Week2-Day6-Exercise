@@ -5,21 +5,51 @@ nav{
     background-color: aliceblue;
 }
 #section1{
-    background-image:  url(../Assets/img/slider-1.jpg);
+    
+    background-image: url(../Assets/img/sliderbandw-1.jpg);
+     height: 500px;
+    width: 1296px;
     background-repeat: no-repeat;  
     background-size: cover;
+}
+#section1 h1{
+padding-top: 180px;
+color: whitesmoke;
+}
+#section1 p{
+color: whitesmoke;
 }
 #section2{
     background-color: #ed564b;  
 }
 #section2 h4{
 color: white;
+
 }
 #section2 p{
     color: white;
 }
 #section4{
-    background-color: gray;
+    background-color: #333;
+}
+
+#section4 h4{
+color: white;
+
+}
+#section4 a{
+color: #aaa;
+text-decoration: none;
+
+
+}
+#section4 p{
+    color: #aaa;
+   
+}
+#section4 hr{
+    color: #aaa;
+    
 }
 footer{
     background-color: black;
